@@ -38,7 +38,7 @@ pip3 install -r requirements.txt
 
 ### 运行时截图
 
-![](D:\MyScrapy\bili\github\BilibiliVideoDownload\img\01.jpg)
+![](./img/01.jpg)
 
 
 
@@ -46,4 +46,4 @@ pip3 install -r requirements.txt
 
 例如：
 
-![](D:\MyScrapy\bili\github\BilibiliVideoDownload\img\2.png)
+![](./img/2.png)
