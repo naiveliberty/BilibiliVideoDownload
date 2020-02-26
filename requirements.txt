@@ -1,0 +1,2 @@
+moviepy==1.0.1
+requests==2.22.0
